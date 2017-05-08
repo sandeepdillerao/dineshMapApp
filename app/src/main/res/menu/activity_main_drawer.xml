@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="HOME" />
+        <item
+            android:id="@+id/nav_history"
+            android:title="MY HISTORY" />
+        <item
+            android:id="@+id/nav_free_service"
+            android:title="FREE SERVICE" />
+        <item
+            android:id="@+id/nav_payment"
+            android:title="PAYMENT" />
+        <item
+            android:id="@+id/nav_help"
+            android:title="HELP" />
+        <item
+            android:id="@+id/nav_settings"
+            android:title="SETTINGS" />
+
+    </group>
+
+
+
+</menu>
